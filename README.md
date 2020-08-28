@@ -3,7 +3,7 @@
 
 
 
-### Designing a [project](https://psycho-2025.github.io/cinema-booking/ to reserve seat in cinema.
+### Designing a [project](https://psycho-2025.github.io/cinema-booking/) to reserve seat in cinema.
 
 > #### Click [here](https://psycho-2025.github.io/cinema-booking/) to view live demo!
 
